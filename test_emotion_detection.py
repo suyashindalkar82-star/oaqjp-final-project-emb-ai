@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 """Unit tests for the emotion_detector function in the EmotionDetection package."""
 
 import unittest
@@ -27,3 +28,6 @@ class TestEmotionDetection(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+=======
+
+>>>>>>> bcd14de1459fd54e055c863f47b6ced33e9c6581
